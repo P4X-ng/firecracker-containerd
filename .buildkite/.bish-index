@@ -1,0 +1,4 @@
+./setup_al2.sh
+./al2_cleanup.sh
+./al2env.sh
+./al2_test.sh

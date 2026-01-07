@@ -1,0 +1,6 @@
+./docker/entrypoint.sh
+./critest/critest_diff.sh
+./tidy.sh
+./image-builder/README.md
+./image-builder/agent.sh
+./thinpool.sh
